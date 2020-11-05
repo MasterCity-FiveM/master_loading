@@ -6,11 +6,6 @@ html,body {
 }
 
 #video_intro {
-
-    z-index: 1;
-}
-
-#video_intro {
     z-index: 1;
 }
 
@@ -19,39 +14,6 @@ html,body {
 }
 
 #server_info {
-
-    top: 5%;
-    left: 50%;
-    margin-left: -80px;
-    position: absolute;
-    z-index: 999;
-
-    -webkit-animation: fadein 5s;
-       -moz-animation: fadein 5s;
-        -ms-animation: fadein 5s;
-         -o-animation: fadein 5s;
-            animation: fadein 5s;
-
-}
-
-#loading_txt {
-
-    bottom: 5%;
-    left: 50%;
-    margin-left: -80px;
-    position: absolute;
-    z-index: 999;
-
-    -webkit-animation: fadein 5s;
-       -moz-animation: fadein 5s;
-        -ms-animation: fadein 5s;
-         -o-animation: fadein 5s;
-            animation: fadein 5s;
-
-}
-
-#server_info {
-
     left: 15%;
     top: 10%;
 	
@@ -64,7 +26,6 @@ html,body {
         -ms-animation: fadein 5s;
          -o-animation: fadein 5s;
             animation: fadein 5s;
-
 }
 
 #server_info p{
@@ -72,10 +33,8 @@ html,body {
 }
 
 p {
-
     color: white;
     font-size: 32px;
-
 }
 
 .text_thing:after {

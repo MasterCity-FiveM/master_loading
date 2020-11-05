@@ -1,5 +1,4 @@
 $(document).ready(function(){
-
 	firstPlay = true;
 	const myAudio = document.getElementById("audio_play");
 	const myVideo = document.getElementById('video_intro');
