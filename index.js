@@ -9,9 +9,9 @@ $(document).ready(function(){
 				myVideo.muted = !myVideo.muted;
 				if(myVideo.muted)
 				{
-					myAudio.innerHTML  = '[ Unmuted (Press space to mute) ]';
+					myAudio.innerHTML  = '[ Muted (Press space to unmute) ]';
 				}else{
-					myAudio.innerHTML = '[ Muted (Press space to unmute) ]';
+					myAudio.innerHTML = '[ Unmuted (Press space to mute) ]';
 				}
 				break;
 			case 107:
