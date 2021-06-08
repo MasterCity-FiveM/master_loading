@@ -3,6 +3,7 @@ files {
     'index.html',
     '*.css',
 	'*.js',
+	'*.png',
 }
 
 loadscreen 'index.html'
